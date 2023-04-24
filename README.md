@@ -4,7 +4,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-delta-nine-47.vercel.app/api?username=RyouuSama&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RyouuSama&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-delta-nine-47.vercel.app/api/top-langs/?username=RyouuSama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&langs_count=8)
+![](https://github-readme-stats-delta-nine-47.vercel.app/api/top-langs/?username=RyouuSama&langs_count=8)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RyouuSama&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
